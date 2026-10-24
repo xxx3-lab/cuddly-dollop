@@ -15,7 +15,7 @@ from email.utils import parsedate_to_datetime
 
 
 # ===== НАСТРОЙКИ =====
-BOT_TOKEN = "8879784535:AAFnxUWY0vPQeApWT29pA2v4MH-1WrioOqY"
+BOT_TOKEN = ""
 CHAT_ID = "-1004482881748"  # ID канала
 
 # Habr RSS
